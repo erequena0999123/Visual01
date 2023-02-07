@@ -1,5 +1,10 @@
 Hola mundo ...!
+<<<<<<< HEAD
 
 Tercera línea
 
 It´s raining cats and dogs
+=======
+Linea 2
+Tercera línea
+>>>>>>> 5817e7b9fbf618c1fd15f5352e7e91e7235989ff
